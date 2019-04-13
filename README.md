@@ -1,17 +1,17 @@
 ### RG16-mozaik
-# Mozaik
+# Mozaic
+This is a Computer Graphics course project. The main goal of the course was to exercise and explore OpenGL API.
 
-U ovom projektu, korisnik bira boju sa sfere, gde je nijansa određena azimutnim uglom, a svetlina i jarkost boje
-visinskim uglom sfere. Korisnik zatim može da boji kvadrate u ravni, time formirajući sliku.
+In this project, the user picks a color from the sphere, where the hue is determined by its azimuth. The user can then color one of the tiles of the grid by clicking on it.
 
-## Prikaz
+## Screenshot
 ![Screenshot](https://github.com/MATF-RG18/RG16-mozaik/blob/master/wiki_files/report_screenshots/08.png)
 
-## Kontrola
-* `W`, `A`, `S`, `D` za kretanje kroz prostor.
-* Kretanje pokazivačem za rotaciju kamere.
-* Levi klik za izbor boje
-* Desni klik za nanošenje boje na pločice. 
+## Controls
+* `W`, `A`, `S`, `D` to move through space.
+* Move the cursor to rotate the camera.
+* Left click to pick a color.
+* Right click to apply color.
 
 ## Build
 
