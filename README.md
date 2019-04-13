@@ -1,6 +1,5 @@
 ### RG16-mozaik
 # Mozaic
-This is a Computer Graphics course project. The main goal of the course was to exercise and explore OpenGL API.
 
 In this project, the user picks a color from the sphere, where the hue is determined by its azimuth. The user can then color one of the tiles of the grid by clicking on it.
 
